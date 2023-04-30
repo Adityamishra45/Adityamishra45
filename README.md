@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adimishra2172930@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1K93enpEi91s4RaM4rUlrOlu0kwUJVqru/edit?usp=share_link&ouid=111131458075093149708&rtpof=true&sd=true](https://docs.google.com/document/d/1K93enpEi91s4RaM4rUlrOlu0kwUJVqru/edit?usp=share_link&ouid=111131458075093149708&rtpof=true&sd=true)
+- 📄 Know about my experiences https://drive.google.com/file/d/1ksKUXzCpyL50BSVFG9SydbFJJvb5x5QF/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
