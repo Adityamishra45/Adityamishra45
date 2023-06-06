@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adimishra2172930@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1ksKUXzCpyL50BSVFG9SydbFJJvb5x5QF/view?usp=share_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1PzOykBXFsQ_9roXPIv7RzFwmaMVh6NI2/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
