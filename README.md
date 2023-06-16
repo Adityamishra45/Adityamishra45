@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/_aditya_mishra1" target="blank"><img src="https://img.shields.io/twitter/follow/_aditya_mishra1?logo=twitter&style=for-the-badge" alt="_aditya_mishra1" /></a> </p>
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Data Structure and Algorithms**
 
-- 🌱 I’m currently learning **Java and Web development.**
+- 🌱 I’m currently learning **DSA and Web Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adityamishra45](https://github.com/Adityamishra45)
 
